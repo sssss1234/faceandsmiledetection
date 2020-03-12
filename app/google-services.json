@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "800829389342",
+    "firebase_url": "https://faceandsmiledetection.firebaseio.com",
+    "project_id": "faceandsmiledetection",
+    "storage_bucket": "faceandsmiledetection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800829389342:android:49ae8ab03d4f131bea8c0f",
+        "android_client_info": {
+          "package_name": "com.example.faceandsmiledetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800829389342-e4tqbicampupj15hpakr5ukb569m3p2h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.faceandsmiledetection",
+            "certificate_hash": "b2256962b3496ac03500682c7d090ef77ac67cc9"
+          }
+        },
+        {
+          "client_id": "800829389342-othugpjb3val99rbsi3cssck0adk522e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQeVHv4uB2_gZ1BOEz4hcidMMRcmym-IQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800829389342-othugpjb3val99rbsi3cssck0adk522e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

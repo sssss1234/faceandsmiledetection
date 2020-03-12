@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">faceandsmiledetection</string>
+    <string name="open_camera">open camera</string>
+    <string name="ok">ok</string>
+</resources>
